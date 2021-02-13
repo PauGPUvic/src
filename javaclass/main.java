@@ -34,7 +34,7 @@ public class main {
 		
 		
 		
-		System.out.println(joc.getPlayer1().getNom());
+		//System.out.println(joc.getPlayer1().getNom());
 	
 		
 		HolaFarola salute = new HolaFarola();
