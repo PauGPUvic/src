@@ -6,4 +6,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
  ## License
-[GNU](https://www.gnu.org/licenses/gpl-3.0.html) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PauGPUvic/src?style=for-the-badge)
+[GNU](https://www.gnu.org/licenses/gpl-3.0.html) 
