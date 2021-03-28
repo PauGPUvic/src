@@ -4,7 +4,6 @@
  A tiny game in CL
 
 ## How to compile?
-JDK is required to compile
 Compile your java classes
 ```bash
     javac *.java
