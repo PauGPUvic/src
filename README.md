@@ -4,15 +4,15 @@
  A tiny game in CL
 
 ## How to compile?
-Compile your java classes
+1. Compile your java classes
 ```bash
     javac *.java
 ```
-Create a manifest file and your jar file:
+2. Create a manifest file and your jar file:
 ```bash
     jar cvfe name.jar name *.class
 ```
-Test your jar:
+3.Test your jar:
 ```bash
     name.jar
 ```
