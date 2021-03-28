@@ -12,7 +12,7 @@
 ```bash
     jar cvfe name.jar name *.class
 ```
-3.Test your jar:
+3. Test your jar:
 ```bash
     name.jar
 ```
