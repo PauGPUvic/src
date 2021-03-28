@@ -16,7 +16,7 @@
 ```bash
     name.jar
 ```
-
+`Is requried JDK to compile the files [link to openJDK](https://jdk.java.net/)`
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
